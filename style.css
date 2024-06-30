@@ -91,7 +91,7 @@ section{
 
 .gradient-background .animated-box{
     position: absolute;
-    background: var(--neon-green);
+    background:rgba(57, 255, 20, .2);
     display: block;
     pointer-events: none;
     border-radius: .5rem;
