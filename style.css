@@ -6,7 +6,7 @@
     --gradient: black; /* Change gradient to solid black */
     --background: rgba(0, 0, 0, .1); /* Adjust background color */
     --box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
-    --border: .3rem solid rgba(255, 255, 255, .1); /* Increased border thickness */
+    --border: .3rem solid rgba(255, 255, 255, .3); /* Increased border thickness */
     --border-top: .3rem solid rgba(255, 255, 255, .3); /* Increased border thickness */
     --border-left: .3rem solid rgba(255, 255, 255, .3); /* Increased border thickness */
 }
