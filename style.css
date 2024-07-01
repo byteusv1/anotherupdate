@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 
 :root {
     --black: #130f40;
@@ -6,9 +6,9 @@
     --gradient: black; /* Change gradient to solid black */
     --background: rgba(0, 0, 0, .1); /* Adjust background color */
     --box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
-    --border: .1rem solid rgba(255, 255, 255, .1);
-    --border-top: .1rem solid rgba(255, 255, 255, .3);
-    --border-left: .1rem solid rgba(255, 255, 255, .3);
+    --border: .3rem solid rgba(255, 255, 255, .1); /* Increased border thickness */
+    --border-top: .3rem solid rgba(255, 255, 255, .3); /* Increased border thickness */
+    --border-left: .3rem solid rgba(255, 255, 255, .3); /* Increased border thickness */
 }
 
 * {
